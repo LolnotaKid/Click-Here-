@@ -1,0 +1,4 @@
+-- This script was made by Me and 14
+--If you want to showcase just give the credits
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LolnotaKid/Fake_animation-V2/main/Fake_AnimationV2.txt"))()
